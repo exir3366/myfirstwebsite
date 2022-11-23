@@ -26,5 +26,6 @@ img  {
 }
 
 <section class="lower"></section>nav {
-    width: 140%;
+    width: auto; 
+    height: auto;
 }
