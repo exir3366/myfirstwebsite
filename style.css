@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: rgb(158, 158, 172);
     margin: 0px;
     padding-left:
 }
@@ -21,8 +21,8 @@ h2 {
     text-shadow: 5px 5px 5px white;
 }
 img  { 
-     width: auto; 
-     height: auto;
+     width: 100px; 
+     height: 100px;
 }
 
 <section class="lower"></section>nav {
