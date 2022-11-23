@@ -7,17 +7,15 @@ body {
 header {
     background-color: blueviolet height: 100px
 }
+
 h1 {
-    float: left;
+    float: right;
     margin-left: 20px;
     margin-right: 50px;
     color: red;
     text-shadow: 5px 5px 5px white;
-    }
-    <section class= "lower">  
-    </section> 
+}
 
-    nav {
-      width:140%;
-    }
-    
+<section class="lower"></section>nav {
+    width: 140%;
+}
