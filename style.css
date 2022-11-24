@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(205, 30, 240);
+    background-color: blue; 
     margin: 10px;
    
 }
 header {
-    background-color: blaxk
+    background-color: green
 }
 h1 {
     float: center;
