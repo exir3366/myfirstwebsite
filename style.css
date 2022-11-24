@@ -4,21 +4,16 @@ body {
    
 }
 header {
-    background-color: red
+    background-color: blaxk
 }
 h1 {
     float: center;
     margin-left: 20px;
     margin-right: 50px;
-    color: red;
+ 
     
 }
 h2 {
     float: left
-    color: red;
-    text-shadow: 5px 5px 5px white;
-}
-<section class="lower"></section>nav {
-    width: auto; 
-    height: auto;
+    text-shadow: white;
 }
