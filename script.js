@@ -1,7 +1,7 @@
-<scriopt> 
-  if (confirm("Press a button!")) {
-  txt = "You pressed OK!";
-} else {
-  txt = "You pressed Cancel!";
+function pageWelcome () { 
+  let userName = prompt("What is your name?); 
+  while (userName == || '' == nul) {
+alert("Why didn't you type your name?");
+  userName= prompot("Please type your name,")
+
 }
-</script>
