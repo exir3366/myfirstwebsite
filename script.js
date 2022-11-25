@@ -1,6 +1,5 @@
 function myFunction() {
-  let text;
-  let person = prompt("Please enter your name:");
+ let person = prompt("Please enter your name:");
   if (person == null || person == "") {
     text = "User cancelled the prompt.";
   } else {
