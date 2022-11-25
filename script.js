@@ -1,9 +1,3 @@
-function myFunction() {
- let person = prompt("Please enter your name:");
-  if (person == null || person == "") {
-    text = "User cancelled the prompt.";
-  } else {
-    text = "Hello " + person + "! How are you today?";
-  }
-  document.getElementById("demo").innerHTML = text;
-}
+function msg(){  
+ prompt("Hello, Welcome To V Squared Home Services" "Would you like to play a game?");  
+}  
