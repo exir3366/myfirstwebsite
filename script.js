@@ -25,27 +25,3 @@ function yesOrNo() {
     }
     return;
 }
-
-function changeMind() {
-    let secondOpinion = confirm('do you want to change your mind?');
-    console.log(secondOpinion);
-    if (secondOpinion == true) {
-        alert('You Changed Your Mind');
-    } else {
-        alert('You didn\'t Change Your Mind');
-    }
-    return;
-}
-
-
-function howManyPictures() {
-    let response = prompt('how many toothbrush images do you want?')
-
-    for (i = 0; i < response; ++i) {
-        const img = document.createElement("img");
-        img.src = 'toothbrush.jpg';
-        img.style.height = "100px";
-        img.style.width = "100px";
-        document.body.append(img);
-    }
-
