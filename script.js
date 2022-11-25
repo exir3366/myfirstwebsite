@@ -1,3 +1,3 @@
 function msg(){  
-alert("hello! this is message");  
+alert("Hello, Welcome To V Squared Home Services");  
 }  
