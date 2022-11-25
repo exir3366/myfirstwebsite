@@ -48,27 +48,4 @@ function howManyPictures() {
         img.style.width = "100px";
         document.body.append(img);
     }
-}
 
-
-
-if (opinion === 'yes') {
-alert('Yay!');
-} else if (opinion === 'no') {
-alert('Sadage');
-} else {
-alert('What?');
-}
-return;
-}
-
-function changeMind() {
-let secondOpinion = confirm('do you want to change your mind?');
-console.log(secondOpinion);
-if (secondOpinion == true) {
-alert('You Changed Your Mind');
-} else {
-alert('You didn\'t Change Your Mind');
-}
-return;
-}
