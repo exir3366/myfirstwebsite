@@ -3,11 +3,8 @@ function welcomePrompt()  {
     if (response !== 'yes') {
     console.log(response)
     continue;
-} else
-    break;
-}
-}
-
+       
+        
 function yesOrNo() {
 let opinion = prompt('yes or no?');
 console.log(opinion);
